@@ -25,6 +25,6 @@
 	},
 	"homepage": "https://github.com/BCDevOps/aws-saml2sts-bookmarklet#readme",
 	"devDependencies": {
-		"bookmarklet": "^1.0.4"
+		"bookmarklet": "^3.0.0"
 	}
 }
